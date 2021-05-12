@@ -1,0 +1,22 @@
+body{
+text-align: center;
+    background-image:linear-gradient(aqua 0%,green 100%);
+}
+img{
+    width: 850px;
+}
+shirt{
+    width:400px;
+}
+place{
+color:blue;
+}
+#hi{
+    width:2000px;
+}
+#no{
+    width:500px;
+}
+#shirt{
+    width:500px;
+}
